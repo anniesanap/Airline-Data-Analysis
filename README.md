@@ -19,7 +19,7 @@ This project analyses airline operational data using SQL and Tableau to uncover 
 1. Imported and explored the airline dataset.
 2. Cleaned and transformed the data using excel.
 3. Created calculated fields for date and time analysis.
-4. Performed SQL analysis to answer key business questions.
+4. Performed SQL analysis in MySQL to answer key business questions.
 5. Developed SQL Views and Stored Procedures for reusable analysis.
 6. Visualized the results in Tableau through an interactive dashboard.
 7. Derived business insights and recommendations based on the findings.
