@@ -102,7 +102,7 @@ Calculated the load factor percentage (Transported Passengers ÷ Available Seats
 
 **Key Findings**
 
--	Allegiant Air consistently ranked among the top-performing carriers across multiple years, maintaining high load factors while operating more than 2,000 flights annually.
+-	Southwest Airline consistently ranked among the top-performing carriers across multiple years, maintaining high load factors while operating more than 50,000 flights annually.
 
 -	Several carriers achieved very high load factors (close to or at 100%) on specific international routes, but these were isolated cases and did not represent an overall trend across countries or regions.
 
@@ -112,7 +112,7 @@ Calculated the load factor percentage (Transported Passengers ÷ Available Seats
 
 -	Evaluating carrier performance should consider both load factor and operational scale. Airlines operating thousands of flights while maintaining high load factors demonstrate stronger and more sustainable performance than airlines with only a small number of flights.
 
--	Allegiant Air represents a strong benchmark for operational efficiency, as it consistently maintained high aircraft occupancy across a large flight network.
+-	Southwest Airline represents a strong benchmark for operational efficiency, as it consistently maintained high aircraft occupancy across a large flight network.
 
 
 _________________________________________________________________________________
